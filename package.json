@@ -1,0 +1,22 @@
+{
+  "name": "safelogger",
+  "version": "2.0.0",
+  "description": "Made by Zef | Shitcode, but it works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Yuliya/safelog.git"
+  },
+  "author": "Zef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Yuliya/safelog/issues"
+  },
+  "homepage": "https://github.com/R-Yuliya/safelog",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
